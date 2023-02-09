@@ -1,0 +1,45 @@
+h1 {
+  color: salmon;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 3em;
+  text-align: center;
+}
+
+/*adjust-color($color: #000000, $red: 1, $green: 2, $blue: 3, $hue: 0, $saturation: 0%, $lightness: 0%, $alpha: 1.0)
+*/
+/*
+adjust-hue($color: #000000, $degrees: 0)
+*/
+/*
+Warna yang berlawanan
+complement($color: #000000)
+*/
+/*
+darken($color: #000000, $amount: 0)
+*/
+/*
+    color: lighten($color: #000000, $amount: 0)
+*/
+/*
+saturate($color: #000000, $amount: 0)
+*/
+/*
+desaturate($color: #000000, $amount: 0)
+*/
+/*
+Membuat desaturate 100%
+color: grayscale($color: #000000)
+*/
+/*
+mencampurkan dua warna
+mix($color: #000000, $color: #000000, $weight: 0.5)
+*/
+/*
+fade-in($color: #000000, $amount: 0)
+*/
+/*
+fade-out($color: #000000, $amount: 0)
+*/
+h1 {
+  color: rgba(250, 128, 114, 0.4);
+}/*# sourceMappingURL=main.css.map */
